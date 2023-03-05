@@ -1,0 +1,30 @@
+* {
+    font-family: 'Gloock', serif;
+    font-family: 'PT Sans', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+
+.banner {
+    background: url("https://www.hostinger.co.id/tutorial/wp-content/uploads/sites/11/2019/05/template-portofolio-wordpres-1280x720.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    color: #fff;
+
+}
+.portofolio {
+    background: url("https://c.pxhere.com/images/ce/61/9857aa81faffceffb291c74502ff-1602352.jpg!d") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    color: #fff;
+}
+
+.contact {
+    background: url("https://wallup.net/wp-content/uploads/2016/01/152428-abstract.jpg") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    color: #fff;
+
+}
